@@ -2,7 +2,6 @@
 %option yylineno
 
 %{
-using namespace std;
 #include <stdio.h>
 
 enum Token {
