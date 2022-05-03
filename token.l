@@ -2,9 +2,6 @@
 %option yylineno
 
 %{
-#include <string>
-#include <sstream>
-#include "parse.tab.hpp"
 using namespace std;
 #include <stdio.h>
 
